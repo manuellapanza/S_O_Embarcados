@@ -7,6 +7,7 @@ R: São sistemas que apresentam uma união entre hardware e software, também co
 R: São sistemas embutidos onde o computador é totalmente dedicado a realizar tarefas pré definidas e específicas.
 
 3. Apresente aplicações de sistemas embarcados:
+
 	(a) Para a indústria automotiva;
 	
 	Sistema de freio ABS, computadores de bordo automotivos, sistema de ré com câmera e sensor.
