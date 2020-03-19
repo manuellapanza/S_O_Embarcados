@@ -19,7 +19,7 @@ R: São sistemas embutidos onde o computador é totalmente dedicado a realizar t
 
 4. Cite arquiteturas possíveis e as diferenças entre elas.
 
-R: Microcontroladores, Processadores de propósito Geral, DSPs, FPGAs, ASICs, SoCs, MPSoCs. Os microcontroladores possuem alguns periféricos na sua contrução que auxiliam na execução de algum projeto. O DSP com uso da CPU para processamento digital de sinais. A FPGA trabalha com a ideia de circuito reconfigurável por meio de uma linguagem de descrição de hardware (VHDL, Verilog). Um SoCS pode ser adequado quando necessário o uso de outros componentes e fazer comunicações entre módulos.
+R: Microcontroladores, Processadores de propósito Geral, DSPs, FPGAs, ASICs, SoCs, MPSoCs. Os microcontroladores possuem alguns periféricos na sua contrução que auxiliam na execução de algum projeto. O DSP com uso da CPU para processamento digital de sinais. A FPGA trabalha com a ideia de circuito reconfigurável por meio de uma linguagem de descrição de hardware como o VHDL. Um SoCs pode ser adequado quando necessário o uso de outros componentes e fazer comunicações entre módulos.
 
 5. Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
 
