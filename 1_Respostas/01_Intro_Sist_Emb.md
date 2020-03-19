@@ -8,14 +8,16 @@ R: São sistemas embutidos onde o computador é totalmente dedicado a realizar t
 
 3. Apresente aplicações de sistemas embarcados:
 	(a) Para a indústria automotiva;
+	
 	Sistema de freio ABS, computadores de bordo automotivos, sistema de ré com câmera e sensor.
 	
 	(b) Para eletrodomésticos;
+	
 	Controle de temperatura em ar condicionado modernos, cafeteiras com temporizador.
 	
 	(c) Para automação industrial.
-	Controle de um braço mecânico, acionamentos elétricos.
 	
+	Controle de um braço mecânico, acionamentos elétricos.	
 
 4. Cite arquiteturas possíveis e as diferenças entre elas.
 
