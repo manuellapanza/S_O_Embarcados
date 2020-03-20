@@ -12,15 +12,24 @@ R:
 
 2. Apresente o nome de todos os arquivos e pastas na pasta 'root'.
 
-R: ls
+R: 
+```script
+	ls
+```
 
 3. Apresente o tipo de todos os arquivos e pastas na pasta 'root'.
 
-R: ls -l
+R: 
+```script
+	ls -l
+```
 
 4. Apresente somente as pastas dentro da pasta 'root'.
 
-R: cd 
+R: 
+```script
+	cd 
+```
 
 5. Descubra em que dia da semana caiu o seu aniversário nos últimos dez anos.
 
@@ -102,14 +111,14 @@ Para as questões a seguir, use a pasta no endereço https://github.com/DiogoCae
 11. Liste somente os arquivos que contenham o nome 'tux'.
 
 ```script
-ls *tux*
-tux-linux-professional_0-100520358-orig.png
-xanderrun-tux-construction-8454.png
+	ls *tux*
+	tux-linux-professional_0-100520358-orig.png
+	xanderrun-tux-construction-8454.png
 ```
 
 12. Liste somente os arquivos que comecem com o nome 'tux'.
 
 ```script
-ls tux*
-tux-linux-professional_0-100520358-orig.png
+	ls tux*
+	tux-linux-professional_0-100520358-orig.png
 ```
